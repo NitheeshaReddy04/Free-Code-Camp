@@ -3,4 +3,4 @@ Html freecode camp codes
 ## 🐱 CatPhoto App
 🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/CatPhotoApp/
 ## 📚 Bookstore Page
-https://nitheeshareddy04.github.io/Free-Code-Camp/
+https://nitheeshareddy04.github.io/Free-Code-Camp/bookstore/
