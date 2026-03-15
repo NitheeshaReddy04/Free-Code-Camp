@@ -1,4 +1,4 @@
 # Free-Code-Camp
 Html freecode camp codes 
-## CatPhotoApp
-[View Project](index.html)
+## 🐱 CatPhoto App
+🔗 Live Project: https://nitheeshareddy04.github.io/free-code-camp/CatPhotoApp/
