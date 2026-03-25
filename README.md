@@ -4,3 +4,5 @@ Html freecode camp codes
 🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/CatPhotoApp/
 ## 📚 Bookstore Page
 https://nitheeshareddy04.github.io/Free-Code-Camp/BookStorePage/
+## 🎵 Music Player:
+https://nitheeshareddy04.github.io/Free-Code-Camp/MusicPlayer/
