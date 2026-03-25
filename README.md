@@ -5,4 +5,4 @@ Html freecode camp codes
 ## 📚 Bookstore Page
 https://nitheeshareddy04.github.io/Free-Code-Camp/BookStorePage/
 ## 🎵 Music Player:
-https://nitheeshareddy04.github.io/Free-Code-Camp/MusicPlayer/
+https://nitheeshareddy04.github.io/Free-Code-Camp/Music%20Player/
