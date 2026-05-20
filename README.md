@@ -14,4 +14,7 @@ https://nitheeshareddy04.github.io/Free-Code-Camp/BookStorePage/
 🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/VideoDisplayer/
 ## 📝 Survey Form:
 🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/SurveyForm/
+## ♠️Playing Cards:
+🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/PlayingCards/
+
 
