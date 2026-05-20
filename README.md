@@ -5,8 +5,11 @@ Html freecode camp codes
 ## 📚 Bookstore Page
 https://nitheeshareddy04.github.io/Free-Code-Camp/BookStorePage/
 ## 🎵 Music Player:
-https://nitheeshareddy04.github.io/Free-Code-Camp/Music%20Player/
+🔗https://nitheeshareddy04.github.io/Free-Code-Camp/Music%20Player/
 ## 🎵 Music Player2:
-https://nitheeshareddy04.github.io/Free-Code-Camp/MusicPlayer2/
-## ❤️ Heart Icon Project:
+🔗https://nitheeshareddy04.github.io/Free-Code-Camp/MusicPlayer2/
+## ❤️ Heart Icon:
 🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/HeartIcon/
+## 📺 Video Displayer:
+🔗 https://nitheeshareddy04.github.io/Free-Code-Camp/VideoDisplayer/
+
