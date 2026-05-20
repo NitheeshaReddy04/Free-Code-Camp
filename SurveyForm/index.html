@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Feedback Survey</title>
+</head>
+<body>
+
+  <h1 id="title">Student Experience Survey</h1>
+
+  <p id="description">
+    We value your feedback! Please fill out this short survey to help us improve.
+  </p>
+
+  <form id="survey-form">
+
+    <label id="name-label" for="name">Full Name</label>
+    <input id="name" type="text" placeholder="Enter your full name" required>
+
+    <br><br>
+
+    <label id="email-label" for="email">Email Address</label>
+    <input id="email" type="email" placeholder="Enter your email" required>
+
+    <br><br>
+
+    <label id="number-label" for="number">Age</label>
+    <input id="number" type="number" placeholder="Enter your age (10-100)" min="10" max="100">
+
+    <br><br>
+
+    <label for="dropdown">Which option best describes you?</label>
+    <select id="dropdown">
+      <option value="student">Student</option>
+      <option value="working">Working Professional</option>
+      <option value="other">Other</option>
+    </select>
+
+    <br><br>
+
+    <p>Would you recommend this platform?</p>
+
+    <label>
+      <input type="radio" name="recommend" value="yes"> Yes
+    </label>
+
+    <label>
+      <input type="radio" name="recommend" value="no"> No
+    </label>
+
+    <br><br>
+
+    <p>What do you like most?</p>
+
+    <label>
+      <input type="checkbox" value="design"> Design
+    </label>
+
+    <label>
+      <input type="checkbox" value="content"> Content
+    </label>
+
+    <label>
+      <input type="checkbox" value="usability"> Usability
+    </label>
+
+    <br><br>
+
+    <label for="comments">Additional Comments</label>
+    <br>
+    <textarea id="comments" rows="4" cols="40" placeholder="Write your feedback here..."></textarea>
+
+    <br><br>
+
+    <button id="submit" type="submit">Submit Survey</button>
+
+  </form>
+
+</body>
+</html>
